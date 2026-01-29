@@ -114,28 +114,6 @@ Each model is evaluated using:
 
 3. Robust ensemble-based classification
 
-# 📉 Visualization
-
-📈 Accuracy Comparison Graph
-
-### Model Accuracy Comparison
-
-![Model Performance Comparison](results/model_training_accuracy_comparison.png)
-
-### Model Accuracy Comparison
-
-![Model Performance Comparison](results/model_testing_accuracy_comparison.png)
-
-### Model Loss Comparison
-
-![Model Performance Comparison](results/model_training_loss_comparison.png)
-
-### Model Loss Comparison
-
-![Model Performance Comparison](results/model_testing_loss_comparison.png)
-
-
-
 # 🧠 Why Hybrid Architecture?
 
 - Transformers provide semantic context
